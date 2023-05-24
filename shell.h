@@ -165,9 +165,9 @@ void ffree(char **);
 int bfree(void **);
 
 /* toem_briefly.c */
-int _isalpha(int);
-int _atoi(char *);
-int interactive(info_t *);
+int alfayo(int);
+int briefly(char *);
+int is_interactive(info_t *);
 int is_delim(char, char *);
 
 /* toem_laylow.c */
